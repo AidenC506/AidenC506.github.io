@@ -1,1 +1,28 @@
+body {
+background-color: lightblue;
+max-width: 600px;
+margin: auto;
+font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
+h1, h2, h3 {
+text-aligh: center;
+color: white;
+background-color: #F09654;
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+Nav li {
+list-style-type:none;
+display: inline block;
+background-color: #F09654;
+padding: 10px;
+}
+nav li:hover {
+background-color: light blue;
+}
